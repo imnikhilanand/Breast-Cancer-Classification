@@ -1,15 +1,10 @@
 # Breast-Cancer-Classification
-This project is based on the analysis of Breast Cancer. Here we predicted the possibility of Breast Cancer using certain parameters through Logistics Regression.  
-
-<b><u>Source:</u></b><br>
-Miguel Patrício(miguelpatricio '@' gmail.com), José Pereira (jafcpereira '@' gmail.com), Joana Crisóstomo (joanacrisostomo '@' hotmail.com), Paulo Matafome (paulomatafome '@' gmail.com), Raquel Seiça (rmfseica '@' gmail.com), Francisco Caramelo (fcaramelo '@' fmed.uc.pt), all from the Faculty of Medicine of the University of Coimbra and also Manuel Gomes (manuelmgomes '@' gmail.com) from the University Hospital Centre of Coimbra
-<br>
+This project is based on the analysis of Breast Cancer. Here we predicted the possibility of Breast Cancer using certain parameters through Logistics Regression, KNN, SVM, Kernel SVM, Naive Bias, Decesion Tree Classification and Random Forest Classification. We got an accuracy of 83.33% with KNN classification. 
 
 <b><u>Data Set Information:</u></b><br>
 There are 10 predictors, all quantitative, and a binary dependent variable, indicating the presence or absence of breast cancer. 
 The predictors are anthropometric data and parameters which can be gathered in routine blood analysis. 
 Prediction models based on these predictors, if accurate, can potentially be used as a biomarker of breast cancer.
-
 
 <b><u>Attribute Information:</u></b><br>
 
@@ -27,4 +22,10 @@ MCP-1(pg/dL) <br>
 Labels: <br>
 1=Healthy controls <br> 
 2=Patients <br>
+
+<b>Stack Plots for Comparison of Data</b><br>
+Expected <br>
+<img src="expected.png" width="60%"><br>
+Result <br>
+<img src="expected.png" width="60%">
 
