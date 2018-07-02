@@ -24,6 +24,7 @@ Labels: <br>
 2=Patients <br>
 
 <b>Stack Plots for Comparison of Data</b><br>
+<br>
 Expected <br>
 <img src="expected.png" width="60%"><br>
 Result <br>
